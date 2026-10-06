@@ -3,7 +3,7 @@
 A clinical prediction tool for severe malaria and TB treatment failure in Kenya. Built using XGBoost with SHAP explainability and a demographic fairness audit across sex and age subgroups.
 
 ## Live Demo
-[your Streamlit URL here — update after deployment]
+https://malaria-tb-prediction-kfor9qd9ucayu2zqvg7saj.streamlit.app/ 
 
 ## What it does
 - Predicts probability of severe malaria outcome based on 11 clinical and demographic features
