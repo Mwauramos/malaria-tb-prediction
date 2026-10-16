@@ -20,7 +20,5 @@ Synthetic patient data generated to reflect Kenya epidemiological distributions 
 ## Responsible AI
 This tool is for research and educational purposes only. Performance gaps across demographic subgroups have been identified — the model performs significantly worse for females with TB (AUC 0.578) and for young adults aged 15 to 24 (0 recall for TB treatment failure). These gaps must be addressed before any clinical deployment.
 
-## Portfolio Context
-Project 3 of a Computational Epidemiology and Health Data Science portfolio under ZENIK.AI — building AI tools for African health research and clinical contexts.
 
 GitHub: github.com/Mwauramos | Contact: mwauramos.n@gmail.com
